@@ -1,0 +1,3 @@
+## Abstract 
+
+The paper focuses on Lending Club, the first P2P lender to have registered its offerings in the United States. The company enables investors to independently evaluate the credit risk of listed loans based on the borrowers’ profiles. These come in various grade schemes and interest rates, where a higher interest tends to lead to a poorer credit grade. Using the publicly available dataset (George, 2019), machine learning models and classifiers are built to identify characteristics common amongst groups of borrowers. These findings will help financial firms anticipate the possibility of bad loans and provide more accurate credit profiling for good customers to enhance borrower satisfaction and trust.
